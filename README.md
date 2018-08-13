@@ -2,10 +2,11 @@
 
 #Atores
 #Tom Cruise
-#Will
+#Jhon
 #Robert
 
 #Atrizes
 #Xuxa
 #Angelina
 #Nicole
+#Katy
